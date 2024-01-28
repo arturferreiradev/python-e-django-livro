@@ -11,3 +11,5 @@ print('pi com tres casas decimais é aproximadamente %.3f' % 3.1415926)
 nome = 'Francisco'
 
 print('Meu nome é %s' % nome)
+
+print("Constantes - pi: %2f, e: %.2f" %(3.1415926, 2.718281))
