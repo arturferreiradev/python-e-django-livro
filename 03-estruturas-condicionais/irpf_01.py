@@ -1,4 +1,4 @@
-print('Cálculo do IRPF')
+print('Cálculo do IRPF') 
 
 rendimento_anual = float(input('Qual o valor do seu rendimento bruto anual? '))
 if rendimento_anual < 22847.77:
