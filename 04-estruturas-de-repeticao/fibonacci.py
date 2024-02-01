@@ -1,3 +1,4 @@
+# Utilizando estrutura condicional while
 print('Sequência de Fibonacci')
 
 n = int(input('Quantos números da sequência de Fibonacci você quer ver? '))
